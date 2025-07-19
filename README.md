@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahirul Islam</h1>
 <h3 align="center">Software Engineer at Xeon Technology Limited</h3>
 
-- 🔭 I’m currently working on GoLang and .NET
+- 🔭 I’m currently working on React Native and .NET
   
 - 💡 Problem Solver
   
