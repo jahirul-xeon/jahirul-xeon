@@ -7,7 +7,7 @@
   
 - 🧠 Critical Thinker
 
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently fully focus React Native and .NET
   
 - 🗣 I speak Bangla, English, and Hindi.
  
