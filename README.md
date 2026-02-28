@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jahirul Islam</h1>
 <h3 align="center">Software Engineer at Xeon Technology Limited</h3>
 
-- 🔭 I’m currently working on React Native and .NET
+- 🔭 I’m currently working on React Native and NextJS
   
 - 💡 Problem Solver
   
 - 🧠 Critical Thinker
 
-- 🌱 I’m currently fully focus React Native and .NET
+- 🌱 I’m currently fully focus React Native and NextJS
   
 - 🗣 I speak Bangla, English, and Hindi.
  
