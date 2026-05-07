@@ -30,21 +30,6 @@
 
 </p>
 
-### Problem Solving States
-<table>
-  <tr>
-    <td align="center">
-      <h3>Leetcode</h3>
-      <img src="https://leetcode.card.workers.dev/jihan_islam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" />
-    </td>
-    <td align="center">
-      <h3>Codeforces</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jihan_islam" alt="Codeforces Stats" />
-    </td>
-  </tr>
-</table>
-
-
 
 
 ## My Skills Sets
